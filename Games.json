@@ -38,7 +38,7 @@
     "title": "Valorant",
     "description": "FPS táctico con personajes únicos y habilidades especiales. Combina estrategia, puntería y trabajo en equipo en partidas intensas 5v5.",
     "ingredients": ["FPS", "Táctico", "Héroes"],
-    "image": "https://store-images.s-microsoft.com/image/apps.21507.13663857844271189.4c1de202-3961-4c40-a0aa-7f4f1388775a.20ed7782-0eda-4f9d-b421-4cc47492edc6",
+    "image": "https://www.riotgames.com/darkroom/1440/8d5c497da1c2eeec8cffa99b01abc64b:5329ca773963a5b739e98e715957ab39/ps-f2p-val-console-launch-16x9.jpg",
     "id": 14
   },
   {
@@ -80,28 +80,28 @@
     "title": "The Legend of Zelda: Breath of the Wild",
     "description": "Una aventura épica de exploración y libertad. Descubre secretos, resuelve puzzles y combate en un mundo abierto bellamente diseñado.",
     "ingredients": ["Aventura", "Puzzle", "Mundo abierto"],
-    "image": "https://rdigitales.cl/wp-content/uploads/2023/07/1637877320-the-legend-of-zelda-skyward-sword-hd.jpg",
+    "image": "https://media.vandal.net/master/5-2023/20235223395250_1.jpg",
     "id": 20
   },
   {
     "title": "Fall Guys",
     "description": "Juego tipo ‘party royale’ con obstáculos locos y coloridos. Compite con decenas de jugadores y llega a la meta antes que todos.",
     "ingredients": ["Multijugador", "Plataformas", "Caótico"],
-    "image": "https://cdn1.epicgames.com/offer/50118b7f954e450f8823df1614b24e80/FGSS04_KeyArt_OfferImagePortrait_1200x1600_1200x1600-4bd46574e78464352e1f2c55714701f7",
+    "image": "https://gmedia.playstation.com/is/image/SIEPDC/fall-guys-ultimate-knockout-s4-keyart-01-en-17apr23?$native$",
     "id": 21
   },
   {
     "title": "Hogwarts Legacy",
     "description": "Sumérgete en el mundo mágico de Harry Potter como un estudiante del siglo XIX. Aprende hechizos, combate y descubre secretos del castillo.",
     "ingredients": ["Aventura", "RPG", "Magia"],
-    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2716/f6b1e4512ee6061913f7d604da8f5f39566be56ca32a68ee.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Hogwarts_Legacy_promotional_photo_horizontal.jpg",
     "id": 22
   },
   {
     "title": "Elden Ring",
     "description": "Una fantasía oscura con un mundo abierto vasto y desafiante. Crea tu personaje y enfréntate a jefes épicos con combate preciso.",
     "ingredients": ["RPG", "Fantasía", "Mundo abierto"],
-    "image": "https://m.media-amazon.com/images/M/MV5BZGQxMjYyOTUtNjYyMC00NzdmLWI4YmYtMDhiODU3Njc5ZDJkXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2000/YMUoJUYNX0xWk6eTKuZLr5Iw.jpg",
     "id": 24
   },
     {
@@ -109,7 +109,7 @@
     "description": "Red Dead Redemption 2 es un videojuego de acción-aventura de mundo abierto desarrollado y publicado por Rockstar Games.",
     "ingredients": ["RPG", "Fantasía", "Mundo abierto"],
     "image": "https://i.blogs.es/169695/red0/1366_2000.jpg",
-    "id": 24
+    "id": 25
   }
   
 ]
