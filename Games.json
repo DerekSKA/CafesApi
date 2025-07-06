@@ -1,0 +1,115 @@
+[
+  {
+    "title": "Grand Theft Auto: V",
+    "description": "Explora la ciudad ficticia de Los Santos con total libertad. Roba autos, realiza misiones intensas y vive una experiencia de mundo abierto con múltiples protagonistas.",
+    "ingredients": ["Acción", "Mundo abierto"],
+    "image": "https://live.mrf.io/statics/i/ps/www.muycomputer.com/wp-content/uploads/2013/07/gtaV.jpg?width=1200&enable=upscalew",
+    "id": 9
+  },
+  {
+    "title": "Minecraft",
+    "description": "Un juego de construcción y exploración con bloques en un mundo infinito. Puedes minar, crear estructuras, sobrevivir o dejar volar tu imaginación en modo creativo.",
+    "ingredients": ["Sandbox", "Supervivencia", "Creatividad"],
+    "image": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000000964/a28a81253e919298beab2295e39a56b7a5140ef15abdb56135655e5c221b2a3a",
+    "id": 10
+  },
+  {
+    "title": "Fortnite",
+    "description": "El battle royale más colorido y popular del mundo. Construye, dispara y lucha para ser el último en pie. Incluye modos creativos, eventos en vivo y colaboraciones épicas.",
+    "ingredients": ["Battle Royale", "Construcción", "Multijugador"],
+    "image": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_500/ncom/software/switch/70010000010192/845ed4620da570c5fbcc43f8ae54c77986ce3946621916a6aa736dc5ce67a856",
+    "id": 11
+  },
+  {
+    "title": "Call of Duty: Warzone",
+    "description": "Acción militar intensa en combates masivos de hasta 150 jugadores. Reúne armas, esquiva el gas y conquista la victoria en este clásico moderno de disparos.",
+    "ingredients": ["FPS", "Battle Royale"],
+    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2819/1651043aae33bdb6cf17d9992409d2ec5cc4856eb76228f6.png",
+    "id": 12
+  },
+  {
+    "title": "Among Us",
+    "description": "Juego multijugador de deducción social donde debes encontrar al impostor antes de que sea demasiado tarde. ¡Engaña o sobrevive en el espacio!",
+    "ingredients": ["Social", "Estrategia", "Multijugador"],
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Among_Us_cover_art.jpg/250px-Among_Us_cover_art.jpg",
+    "id": 13
+  },
+  {
+    "title": "Valorant",
+    "description": "FPS táctico con personajes únicos y habilidades especiales. Combina estrategia, puntería y trabajo en equipo en partidas intensas 5v5.",
+    "ingredients": ["FPS", "Táctico", "Héroes"],
+    "image": "https://store-images.s-microsoft.com/image/apps.21507.13663857844271189.4c1de202-3961-4c40-a0aa-7f4f1388775a.20ed7782-0eda-4f9d-b421-4cc47492edc6",
+    "id": 14
+  },
+  {
+    "title": "Roblox",
+    "description": "Una plataforma de creación de juegos donde millones de jugadores pueden construir sus propios mundos y aventuras. Ideal para creatividad y comunidad.",
+    "ingredients": ["Creación", "Multiverso", "Comunidad"],
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8EauU41Nan5DVYK6tkPw4Mg8McGu-7akAUQ&s",
+    "id": 15
+  },
+  {
+    "title": "PUBG: Battlegrounds",
+    "description": "Uno de los pioneros del género battle royale. Lánzate desde un avión, recoge equipo y lucha hasta el final en escenarios realistas.",
+    "ingredients": ["Battle Royale", "Estrategia", "Acción"],
+    "image": "https://cdn1.epicgames.com/spt-assets/53ec4985296b4facbe3a8d8d019afba9/pubg-battlegrounds-1rx7f.png",
+    "id": 16
+  },
+  {
+    "title": "Apex Legends",
+    "description": "Un battle royale basado en escuadrones con héroes únicos y habilidades futuristas. Rápido, ágil y lleno de adrenalina.",
+    "ingredients": ["Battle Royale", "Héroes", "Futurista"],
+    "image": "https://cdn1.epicgames.com/spt-assets/5dcd88f4e2094a698ebffa43438edc33/apex-legends-15tbt.jpg",
+    "id": 17
+  },
+  {
+    "title": "League of Legends",
+    "description": "MOBA por excelencia, donde dos equipos de campeones luchan por destruir la base enemiga usando estrategia, reflejos y coordinación.",
+    "ingredients": ["MOBA", "Estrategia", "Competitivo"],
+    "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/aeddf86348891bd4bc12509db175d0cccb8b8c02-837x469.jpg?w=1200&h=630&fm=webp&fit=crop&crop=center",
+    "id": 18
+  },
+  {
+    "title": "Rocket League",
+    "description": "Fútbol con autos a toda velocidad. Golpea la pelota, realiza acrobacias aéreas y gana con estilo. Diversión pura y competencia vibrante.",
+    "ingredients": ["Deportes", "Autos", "Multijugador"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Rocket_League_coverart.jpg",
+    "id": 19
+  },
+  {
+    "title": "The Legend of Zelda: Breath of the Wild",
+    "description": "Una aventura épica de exploración y libertad. Descubre secretos, resuelve puzzles y combate en un mundo abierto bellamente diseñado.",
+    "ingredients": ["Aventura", "Puzzle", "Mundo abierto"],
+    "image": "https://rdigitales.cl/wp-content/uploads/2023/07/1637877320-the-legend-of-zelda-skyward-sword-hd.jpg",
+    "id": 20
+  },
+  {
+    "title": "Fall Guys",
+    "description": "Juego tipo ‘party royale’ con obstáculos locos y coloridos. Compite con decenas de jugadores y llega a la meta antes que todos.",
+    "ingredients": ["Multijugador", "Plataformas", "Caótico"],
+    "image": "https://cdn1.epicgames.com/offer/50118b7f954e450f8823df1614b24e80/FGSS04_KeyArt_OfferImagePortrait_1200x1600_1200x1600-4bd46574e78464352e1f2c55714701f7",
+    "id": 21
+  },
+  {
+    "title": "Hogwarts Legacy",
+    "description": "Sumérgete en el mundo mágico de Harry Potter como un estudiante del siglo XIX. Aprende hechizos, combate y descubre secretos del castillo.",
+    "ingredients": ["Aventura", "RPG", "Magia"],
+    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2716/f6b1e4512ee6061913f7d604da8f5f39566be56ca32a68ee.png",
+    "id": 22
+  },
+  {
+    "title": "Elden Ring",
+    "description": "Una fantasía oscura con un mundo abierto vasto y desafiante. Crea tu personaje y enfréntate a jefes épicos con combate preciso.",
+    "ingredients": ["RPG", "Fantasía", "Mundo abierto"],
+    "image": "https://m.media-amazon.com/images/M/MV5BZGQxMjYyOTUtNjYyMC00NzdmLWI4YmYtMDhiODU3Njc5ZDJkXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "id": 24
+  },
+    {
+    "title": "Red Dead Repemption 2",
+    "description": "Red Dead Redemption 2 es un videojuego de acción-aventura de mundo abierto desarrollado y publicado por Rockstar Games.",
+    "ingredients": ["RPG", "Fantasía", "Mundo abierto"],
+    "image": "https://i.blogs.es/169695/red0/1366_2000.jpg",
+    "id": 24
+  }
+  
+]
