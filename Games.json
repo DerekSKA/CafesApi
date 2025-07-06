@@ -103,5 +103,13 @@
     "ingredients": ["RPG", "Fantasía", "Mundo abierto"],
     "image": "https://m.media-amazon.com/images/M/MV5BZGQxMjYyOTUtNjYyMC00NzdmLWI4YmYtMDhiODU3Njc5ZDJkXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
     "id": 24
-  }
+  },
+    {
+    "title": "Red Dead Repemption 2",
+    "description": "Red Dead Redemption 2 es un videojuego de acción-aventura de mundo abierto desarrollado y publicado por Rockstar Games.",
+    "ingredients": ["RPG", "Fantasía", "Mundo abierto"],
+    "image": "https://i.blogs.es/169695/red0/1366_2000.jpg",
+    "id": 24
+  },
+  
 ]
